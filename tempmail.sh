@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # 🏴‍☠️ TempMail By Bily 🚀
 
 clear
