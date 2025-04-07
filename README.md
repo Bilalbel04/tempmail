@@ -31,7 +31,7 @@ sudo apt update && sudo apt install curl jq python3 -y
 ### 2️⃣ Clonar el Repositorio
 ```bash
 git clone https://github.com/Bilalbel04/tempmail.git
-cd tempmail-optimizado
+cd tempmail
 ```
 
 ### 3️⃣ Dar Permisos de Ejecución
@@ -68,9 +68,6 @@ Creado por **Bily** ⚡
 
 Si te gusta este proyecto, ¡dale una ⭐ en GitHub y sígueme para más herramientas útiles!
 
-🔗 [GitHub](https://github.com/tu-usuario) | ✉️ [Contacto](mailto:tu-email@example.com)
-
 ---
 
 ⚠️ **Aviso:** Este script se proporciona tal cual, sin garantías. Úsalo bajo tu propio riesgo.
-
