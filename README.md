@@ -1,4 +1,4 @@
-# 🚀 TempMail Optimizado
+# 🚀 TempMail
 
 TempMail es un script en **Bash** creado por bily que te permite generar direcciones de correo temporal utilizando **Mail.tm**. Monitorea en tiempo real los correos recibidos y los muestra en un servidor web local para una mejor visualización.
 
