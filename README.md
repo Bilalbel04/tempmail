@@ -46,12 +46,10 @@ chmod +x tempmail.sh
 
 ---
 
-## 🌍 Acceso a los Correos
-Los correos recibidos se guardan y pueden visualizarse en:
-```bash
-http://localhost:5555/
-```
-Cada correo se guarda como un archivo HTML dentro del directorio `emails/`.
+## 🎯 Salida esperada
+Este es un ejemplo del resultado que deberíamos obtener.
+
+<img src="https://i.imgur.com/2znbsPU.png" alt="Captura TerminalempMail" width="700">
 
 ---
 
@@ -70,4 +68,6 @@ Si te gusta este proyecto, ¡dale una ⭐ en GitHub y sígueme para más herrami
 
 ---
 
-⚠️ **Aviso:** Este script se proporciona tal cual, sin garantías. Úsalo bajo tu propio riesgo.
+⚠️ **Aviso importante:**  
+
+El autor **no se hace responsable** del uso indebido o las consecuencias derivadas del uso de este script. Cada usuario es **responsable** de cómo utiliza esta herramienta y acepta hacerlo bajo su propio riesgo.
