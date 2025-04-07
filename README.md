@@ -30,7 +30,7 @@ sudo apt update && sudo apt install curl jq python3 -y
 
 ### 2️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/tempmail-optimizado.git
+git clone https://github.com/Bilalbel04/tempmail.git
 cd tempmail-optimizado
 ```
 
